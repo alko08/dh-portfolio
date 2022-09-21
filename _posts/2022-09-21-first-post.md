@@ -7,4 +7,7 @@ categories: jekyll update
 Here is my first example post. That is all.
 
 Here is a photo of my dog because why not?
-![Ginger in Graduation Hat](../assets/dog.JPG)
+
+<div>
+  <img src= "../assets/dog.JPG"/>
+</div>
