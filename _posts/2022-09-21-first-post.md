@@ -9,5 +9,5 @@ Here is my first example post. That is all.
 Here is a photo of my dog because why not?
 
 <div>
-  <img src= "../assets/dog.JPG"/>
+  <img src= "./../assets/dog.JPG"/>
 </div>
