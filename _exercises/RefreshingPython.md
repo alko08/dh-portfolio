@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning Python
+title: Refreshing Python
 description: Just some random functions and pieces of code with the purpose of refreshing python skills.
 ---
 # Heading 1
