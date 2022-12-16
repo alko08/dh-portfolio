@@ -3,7 +3,7 @@ layout: page
 title: Refreshing Python
 description: Just some random functions and pieces of code with the purpose of refreshing python skills.
 ---
-<!DOCTYPE html>
+
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">

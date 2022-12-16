@@ -4,7 +4,6 @@ title: Named Entity Recognition
 description: This is a code file that runs Named Entity Recognition on a single chapter of Gibbon's Decline and Fall (chapter 10) to determine the frequency and location of each place mentioned.
 ---
 
-<!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
