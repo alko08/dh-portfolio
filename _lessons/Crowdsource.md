@@ -5,7 +5,7 @@ description: This lesson uses Python and Pandas to normalize crowdsourced data.
 ---
 
 ## Source
-[Programming Historian Crowdsourced Data Normalization with Python and Pandas](https://discord.com/channels/877073567307665469/877073568779862038/1029160663882407936)
+[Programming Historian Crowdsourced Data Normalization with Python and Pandas](https://programminghistorian.org/en/lessons/crowdsourced-data-normalization-with-pandas)
 
 ## Reflection
 Crowdsourcing is an important concept. It is used daily to collect, refine, and analyze data. I personally helped run a crowdsourcing volunteer program using the tool BillionGraves, to record and transcribe graves from my local cemetery. It would take a long time for one human to go around and take photos of every grave on the planet, so BillionGraves lets anyone takes pictures and upload them to their site. Then on the site, the photos are categorized and transcribed by people using their site. After that, the photos are then just uploaded to their site for anyone to view. Though as Brandon Walsh covers, there are a few problems with this idea. 
@@ -18,7 +18,7 @@ For one, what if we used a machine to transcribe the graves instead of humans? W
 
 ```python
 # First make sure pandas is installed.
-pip install pandas==1.2.0
+!pip install pandas==1.2.0
 ```
 
 
